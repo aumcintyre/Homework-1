@@ -19,7 +19,7 @@ Repo link: https://github.com/aumcintyre/Homework-1
 
 ## My Experience
 
-I started off by opening the HTML index and scanned through it for generic element tags like "div". I replaced each section with a semantic element tag, inluding header, nav, main, aside, and footer. After chaging these tags, I went into the stylesheet and made the appropriate changes to the rules so they matched up with their new section names. 
+I started off by opening the HTML index and scanned through it for generic element tags like "div". I replaced each section with a semantic element tag, inluding header, nav, main, aside, and footer. After changing these tags, I went into the stylesheet and made the appropriate changes to the rules so they matched up with their new section names. 
 
 Once each section was more specific, I checked to make sure all parts were in a logical order. From there I added an alt text to each of the 3 images within the "main" portion of my index. From there, I edited the header. I made the title of the website more specific and I added in a favicon for additional style. 
 
